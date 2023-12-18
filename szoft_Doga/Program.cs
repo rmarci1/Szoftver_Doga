@@ -10,6 +10,7 @@ namespace szoft_Doga
     {
         static void Main(string[] args)
         {
+            Console.ReadKey();
         }
     }
 }
